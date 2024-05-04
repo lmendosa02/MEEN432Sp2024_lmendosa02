@@ -1,3 +1,3 @@
-Start by downloading all the files in the Project4 folder (P4initUpdated, raceStat, genTrack, FinalRaceNoVisual, FinalRacewithVisual, and the P4_Model_Final). Once that is complete, run the P4initUpdated file and
-then either open the FinalRaceNoVisual (it will just output the required data) or FinalRacewithVisual (it will output the data with the track visual looping), depending on your preference. Once that is selected and run,
-the results can be seen in the command window and the project is complete.
+Start by downloading all the files in the Project4 folder (P4initUpdated, raceStat, genTrack, FinalRaceNoVisual, FinalRacewithVisual, P4_Model_Final, and the P4_Model_Final cache). Once that is complete, 
+run the P4initUpdated file and then either open the FinalRaceNoVisual (it will just output the required data) or FinalRacewithVisual (it will output the data with the track visual looping), depending on 
+your preference. Once that is selected and run, the results can be seen in the command window and the project is complete.
